@@ -1,6 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou Ronaldo Evangelista</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoevangelista&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoevangelista&langs_count=3&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub stats
+[![ronaldoevangelista's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoevangelista&show_icons=true&hide_border=true)](https://github.com/ronaldoevangelista/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldoevangelista&langs_count=10&hide_border=true&layout=compact)](https://github.com/ronaldoevangelista/github-readme-stats)
 
 <h3 align="center"></h3>
 
